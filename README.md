@@ -15,3 +15,4 @@ Tecnologias Utilizadas
 • JavaScript : Lógica para captura de entradas do usuário, validação de dados e realização do sorteio dos amigos secretos.
 
 
+![image](https://github.com/user-attachments/assets/f10edb24-1ad2-4293-ab94-2fbc691f6ab0)
